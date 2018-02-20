@@ -1,3 +1,3 @@
 # hello-world
 Hi I am Muhammad Irshad Ibrhaim
-I am about to strat project about VLC / Li-Fi
+I am about to strat project on VLC / Li-Fi
